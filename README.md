@@ -42,6 +42,4 @@ I'm focused on solving the hard problems in document intelligence and semantic r
 
 ![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=2dogsandanerd&show_icons=true&theme=dark)
 
-
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=2dogsandanerd&show_icons=true&theme=dark)---
-
+---
