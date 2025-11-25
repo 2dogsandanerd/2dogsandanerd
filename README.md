@@ -32,14 +32,4 @@ I'm focused on solving the hard problems in document intelligence and semantic r
 - r/docling - Community for document intelligence
 
 
-- ### 🛠️ Tech Stack
-
-**RAG & LLMs:** LlamaIndex, Docling, ChromaDB, Ollama  
-**Backend:** FastAPI, Python 3.12, SQLAlchemy  
-**Frontend:** Electron, React, Material-UI
-
-### 📊 GitHub Stats
-
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=2dogsandanerd&show_icons=true&theme=dark)
-
 ---
